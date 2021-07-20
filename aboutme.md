@@ -20,7 +20,7 @@ More detailed ver. of CV is available on request. Cheers!
 * (2021) The Second-best System: Interspeech 2021 : Shared Task on Automatic Speech Recognition for Non-Native Children's Speech, English (Open Task)
 * (2021) The Second-best System: Interspeech 2021 : Shared Task on Automatic Speech Recognition for Non-Native Childrens' Speech, English (Closed Task)
 * (2020) The Second-best System: Closed Track, Interspeech 2020: Shared Task on Automatic Speech Recognition for Non-Native Children's Speech
-* (2020) The Third-best System: Open Track, Interspeech 2020: Shared Task on Automatic Speech Recognition for Non-Native Chiddren's Speech
+* (2020) The Third-best System: Open Track, Interspeech 2020: Shared Task on Automatic Speech Recognition for Non-Native Children's Speech
 * (2018) Best Academic System Award: 2018 Formosa Speech Recognition (FSR 2018)
 * (2017) Best Paper Award: Conference on Computational Linguistics and Speech Processing (ROCLING 2017), Taiwan: Paper entitled "Exploring query intent and neural network modeling techniques for spoken document retrieval" (in Chinese)
 * (2015) The first runner-up: Mobile Hero Smart City Develop Competition 2015 - 200K TWD price
