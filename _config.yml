@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Underdog Xuechen Liu
+title: Tien-Hong Lo
 
 # Your name to show in the footer
-author: Underdog Xuechen Liu
+author: Tien-Hong Lo
 
 # --- List of links in the navigation bar --- #
 
@@ -23,7 +23,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/xuechen-avatar.jpeg"
+avatar: "/assets/img/teinhonglo-avatar.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -38,10 +38,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "xuechen.liu@inria.fr"
-  github: underdogliu
-  twitter: underdogliu
-  linkedin: xuechen-liu-3b4a37b6
+  email: "teinhonglo@teinhonglo"
+  github: teinhonglo
+  linkedin: tien-hong-lo
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -51,7 +50,7 @@ rss-description: I mean.....how to use RSS?
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   linkedin: true
   vk: false
@@ -167,7 +166,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Paris"
+timezone: "Asia/Tokyo"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
