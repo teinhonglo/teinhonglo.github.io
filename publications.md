@@ -6,23 +6,33 @@ subtitle: Publications by year in reverse order
 nav: true
 ---
 
-### 2021
-* [Learnable MFCCs for Speaker Verification](https://hal.inria.fr/hal-03139532), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, ISCAS 2021, Daegu, Korea
+### Journal Papers
+* Fu-An Chao, **Tien-Hong Lo**, Shi-Yan Weng, Shih-Hsuan Chiu, Yao-Ting Sung, Berlin Chen, "The NTNU Taiwanese ASR System for Formosa Speech Recognition Challenge 2020," to appear in International Journal of Computational Linguistics and Chinese Language Processing.
+* Hsiu-Jui Chang, Wei-Cheng Chao, **Tien-Hong Lo**, Berlin Chen, "An investigation of hybrid CTC-attention modeling in Mandarin speech recognition," International Journal of Computational Linguistics and Chinese Language Processing, Vol. 24, No. 1, pp. 39-50, June 2019. (In Chinese)
+* **Tien-Hong Lo** and Berlin Chen, "Leveraging discriminative training and model combination for semi-supervised speech recognition," International Journal of Computational Linguistics and Chinese Language Processing, Vol. 23, No. 2, pp. 19-34, December 2018. (in Chinese)
+* Wei-Cheng Chao, Hsiu-Jui Chang, **Tien-Hong Lo**, Berlin Chen, "Leveraging discriminative training and improved neural network architecture and optimization method," International Journal of Computational Linguistics and Chinese Language Processing, Vol. 23, No. 2, pp. 35-46, December 2018. (in Chinese)
+* **Tien-Hong Lo**, Ying-Wen Chen, Kuan-Yu Chen, Hsin-Min Wang and Berlin Chen, "On the use of neural network modeling techniques for spoken document retrieval," International Journal of Computational Linguistics and Chinese Language Processing, Vol. 22, No. 2, pp. 1-16, December 2017. (in Chinese)
 
 -------------------
-### 2020
-
-* [UIAI System for Short-Duration Speaker Verification Challenge 2020](https://arxiv.org/abs/2007.13118), Md Sahidullah, Achintya Kumar Sarkar, Ville Vestman, **Xuechen Liu**, Romain Serizel, Tomi Kinnunen, Zheng-Hua Tan, Emmanuel Vincent, IEEE SLT 2021, Shenzhen, China
-* [A Comparative Re-Assessment of Feature Extractors for Deep Speaker Embeddings](https://arxiv.org/abs/2007.15283), **Xuechen Liu**, Md Sahidullah, and Tomi Kinnunen, INTERSPEECH 2020, Shanghai, China
-* [Building Proactive Voice Assistants: When and How (not) to Interact](https://arxiv.org/abs/2005.01322), Ondra Miksik et al, *arXiv:2005.01322*, 2020
+### International Conference Papers
+* Shih-Hsuan Chiu, **Tien-Hong Lo** and Berlin Chen, "Cross-sentence neural language models for conversational speech recognition," The Annual International Joint Conference on Neural Networks (IJCNN 2021), Online, July 18-22, 2021.
+* Shi-Yan Weng, **Tien-Hong Lo**, Berlin Chen, "An effective contextual language modeling framework for speech summarization with augmented features," the 28th European Signal Processing Conference (EUSIPCO 2020), Online, January 18-22, 2021.
+* **Tien-Hong Lo**, Fu-An Chao, Shi-Yan Weng, Berlin Chen, "The NTNU System at the Interspeech 2020 Non-Native Children's Speech ASR Challenge," the 21st Annual Conference of the International Speech Communication Association (Interspeech 2020), Online, October 25-29, 2020.
+* **Tien-Hong Lo**, Shi-Yan Weng, Hsiu-Jui Chang, Berlin Chen, "An effective end-to-end modeling approach for mispronunciation detection," the 21st Annual Conference of the International Speech Communication Association (Interspeech 2020), Online, October 25-29, 2020.
+* Shao-Wei Fan-Jiang, **Tien-Hong Lo**, Berlin Chen, "Spoken document retrieval leveraging BERT-based modeling and query reformulation," the 45th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020), Online, May 4-8, 2020.
+* Hsiao-Yun Lin, **Tien-Hong Lo**, Berlin Chen, "Enhanced BERT-based ranking models for spoken document retrieval," IEEE workshop on Automatic Speech Recognition and Understanding (ASRU 2019), Sentosa, Singapore, 14-18 December, 2019.
+* **Tien-Hong Lo**, Berlin Chen, "Semi-supervised training of acoustic models leveraging knowledge transferred from out-of-domain data," 2019 APSIPA Annual Summit and Conference (APSIPA ASC 2019), Lanzhou, China, November 18-21, 2019. (Oral)
+* **Tien-Hong Lo**, Ying-Wen Chen, Kuan-Yu Chen, Hsin-Min Wang, Berlin Chen, "Neural relevance-aware query modeling for spoken document retrieval," IEEE workshop on Automatic Speech Recognition and Understanding (ASRU 2017), Okinawa, Japan, December 16-20, 2017.
 
 -------------------
-### 2019
+### Local Conference Papers
 
-* Speaker Recognition, Raymond W. M. Ng, **Xuechen Liu**, and Pawel Swietojanski, UK Patent 2019 (Accepted at 2020)
+* Yu-Sen Cheng, **Tien-Hong Lo**, Berlin Chen, "Exploiting text prompts for the development of an end-to-end computer-assisted pronunciation training system," the 32nd International Conference on Computational Linguistics and Speech Processing (ROCLING 2020), Taipei, Taiwan, September 24-26, 2020. (in Chinese)
+* Hsiu-Jui Chang, **Tien-Hong Lo**, Tzu-En Liu, Berlin Chen, "Investigating computer-assisted pronunciation training leveraging end-to-end speech recognition techniques," the 31st International Conference on Computational Linguistics and Speech Processing (ROCLING 2019), New Taipei City, Taiwan, October 3-5, 2019. (in Chinese)
+* Ming-Jhang Yang, Fu-An Chao, **Tien-Hong Lo**, Berlin Chen, "Exploiting generative adversarial network for robustness automatic speech recognition," the 31st International Conference on Computational Linguistics and Speech Processing (ROCLING 2019), New Taipei City, Taiwan, October 3-5, 2019. (in Chinese)
+* **Tien-Hong Lo**, Berlin Chen, "Investigating acoustic model combination and semi-supervised discriminative training for meeting speech recognition," the 30th International Conference on Computational Linguistics and Speech Processing (ROCLING 2018), Hsinchu, Taiwan, October 4-5, 2018. (in Chinese)
+* Wei-Cheng Chao, Hsiu-Jui Chang, **Tien-Hong Lo**, Berlin Chen, "Discriminative training of acoustic models leveraging improved neural network architecture and optimization method," the 30th International Conference on Computational Linguistics and Speech Processing (ROCLING 2018), Hsinchu, Taiwan, October 4-5, 2018. (in Chinese)
+* Ying-wen Chen, Tien-hong Lo, Hsiu-jui Chang, Wei-Cheng Chao, Berlin Chen, "On the use of speaker-aware language model adaptation techniques for meeting speech recognition," the 30th International Conference on Computational Linguistics and Speech Processing (ROCLING 2018), Hsinchu, Taiwan, October 4-5, 2018. (in Chinese)
+* **Tien-Hong Lo**, Ying-Wen Chen, Berlin Chen, Kuan-Yu Chen, Hsin-Min Wang, "Exploring query intent and neural network modeling techniques for spoken document retrieval," the 29th International Conference on Computational Linguistics and Speech Processing (ROCLING 2017), Taipei, Taiwan, November 27-28, 2017. (in Chinese) (Best Paper Award)
 
 -------------------
-### 2018
-
-* [Teacher-student training for text-independent speaker recognition](https://ieeexplore.ieee.org/document/8639564), Raymond W. M. Ng, **Xuechen Liu**, and Pawel Swietojanski, IEEE SLT 2018, Athens, Greece
-* [AISHELL-2: Transforming Mandarin ASR Research Into Industrial Scale](https://arxiv.org/abs/1808.10583), Jiayu Du, Xingyu Na, **Xuechen Liu**, and Hui Bu, *arXiv:1808.10583*, 2018
