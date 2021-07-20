@@ -23,4 +23,4 @@ More detailed ver. of [CV](https://drive.google.com/file/d/1bWguMtohTvcIdl1y_ii-
 * (2020) The Third-best System: Open Track, Interspeech 2020: Shared Task on Automatic Speech Recognition for Non-Native Children's Speech
 * (2018) Best Academic System Award: 2018 Formosa Speech Recognition (FSR 2018)
 * (2017) Best Paper Award: Conference on Computational Linguistics and Speech Processing (ROCLING 2017), Taiwan: Paper entitled "Exploring query intent and neural network modeling techniques for spoken document retrieval" (in Chinese)
-* (2015) The first runner-up: Mobile Hero Smart City Develop Competition 2015 - 200K TWD price
+* (2015) The First Runner-up: Mobile Hero Smart City Develop Competition 2015 - 200K TWD price
