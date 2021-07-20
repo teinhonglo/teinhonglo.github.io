@@ -16,8 +16,8 @@ author: Tien-Hong Lo
 navbar-links:
   About: "aboutme"
   Publications: "publications"
-  Blog: "blog"
-  Events: "events"
+  # Blog: "blog"
+  # Events: "events"
 
 # --- Logo --- #
 
@@ -39,8 +39,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "teinhonglo@teinhonglo"
-  github: teinhonglo
-  linkedin: tien-hong-lo
+  github: https://github.com/teinhonglo
+  linkedin: https://www.linkedin.com/in/tien-hong-lo
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
