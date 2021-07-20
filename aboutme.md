@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About
-subtitle: Lil bit about me.
+subtitle: Little bit about me.
 ---
 
 -------------------
 ### Little bit on me
 I am Tien-Hong, a research engineer in Speech & Spoken Language Processing. I have broad interest in [Speech Recognition](https://en.wikipedia.org/wiki/Speech_recognition) and [Computer-assisted pronunciation training](https://en.wikipedia.org/wiki/Computer-assisted_language_learning). 
 
-Currently I am working as a 2nd-year PhD student, jointly funded by [School of Computing @ Uni. of Eastern Finland](http://www.uef.fi/en/web/cs) and [MULTISPEECH @ Inria Nancy Grand Est](https://team.inria.fr/multispeech/). Previously after getting MSc from Edinburgh, I stayed there working as an R&D engineer at [Emotech](https://www.linkedin.com/company/emotech-ltd/).
+Currently I am working as a 2nd-year PhD student, jointly funded by [Computer Science & Information Engineering @ National Taiwan Normal University (NTNU)](https://www.csie.ntnu.edu.tw/) and [The Research Center for Psychological and Educational Testing](https://www.rcpet.ntnu.edu.tw/). Previously after getting MS degree from NTNU, I stayed there working as an R&D engineer at [RCPET](https://www.linkedin.com/in/tien-hong-lo/).
 
-I am curious about everything in terms of speech and language and I am aware that I need to code everyday to keep myself fresh. I am an active user and lover of [Kaldi](http://kaldi-asr.org) and have bits of contribution to it - Check its scripts on [Aishell2](https://github.com/kaldi-asr/kaldi/tree/master/egs/aishell2) and [HI-MIA](https://github.com/kaldi-asr/kaldi/tree/master/egs/hi_mia/v1) for more.
+Most of my research interested working pieces are on improving automatic speech recognition (ASR) system, with a minor focus on acoustic modeling in computer assisted pronunciation training (CAPT). In addition to this, I am also in exploring the related machine learning topics of spoken information retrieval, natural language processing, and deep neural networks. I am an active user and lover of the open-sourced ASR toolkit (e.g. [kaldi](http://kaldi-asr.org) and [espnet](https://espnet.github.io/espnet)) and have bits of contribution to it.
 
 More detailed ver. of CV is available on request. Cheers!
 
