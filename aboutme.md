@@ -16,9 +16,8 @@ More detailed ver. of [CV](https://drive.google.com/file/d/1bWguMtohTvcIdl1y_ii-
 
 -------------------
 ### Awards & Honors
-* (2021) High Distinction System Student Award (The Best System): Track 3 of Formosa Speech Recognition Challenge 2020 (FSR 2020)
-* (2021) The Second-best System: Interspeech 2021 : Shared Task on Automatic Speech Recognition for Non-Native Children's Speech, English (Open Task)
-* (2021) The Second-best System: Interspeech 2021 : Shared Task on Automatic Speech Recognition for Non-Native Childrens' Speech, English (Closed Task)
+* (2021) High Distinction System Student Award (The Best System): Track 3, Formosa Speech Recognition Challenge 2020 (FSR 2020)
+* (2021) The Second-best System: Open Track & Closed Track, Interspeech 2021 : Shared Task on Automatic Speech Recognition for Non-Native Children's Speech
 * (2020) IEEE Spoken Language Processing Student Travel Grant: Interspeech 2020
 * (2020) The Second-best System: Closed Track, Interspeech 2020: Shared Task on Automatic Speech Recognition for Non-Native Children's Speech
 * (2020) The Third-best System: Open Track, Interspeech 2020: Shared Task on Automatic Speech Recognition for Non-Native Children's Speech
