@@ -15,6 +15,8 @@ nav: true
 
 -------------------
 ### International Conference Papers
+* **Tien-Hong Lo**, Yao-Ting Sung, Berlin Chen, "Improving end-to-end modeling for mispronunciation detection with effective augmentation mechanisms," Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2021), Tokyo Japan, December 14-17, 2021.
+* Shih-Hsuan Chiu, **Tien-Hong Lo**, Fu-An Chao, Berlin Chen, "Cross-utterance reranking models with BERT and graph convolutional networks for conversational speech recognition," Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2021), Tokyo Japan, December 14-17, 2021.
 * Shih-Hsuan Chiu, **Tien-Hong Lo** and Berlin Chen, "Cross-sentence neural language models for conversational speech recognition," The Annual International Joint Conference on Neural Networks (IJCNN 2021), Online, July 18-22, 2021.
 * Shi-Yan Weng, **Tien-Hong Lo**, Berlin Chen, "An effective contextual language modeling framework for speech summarization with augmented features," the 28th European Signal Processing Conference (EUSIPCO 2020), Online, January 18-22, 2021.
 * **Tien-Hong Lo**, Fu-An Chao, Shi-Yan Weng, Berlin Chen, "The NTNU System at the Interspeech 2020 Non-Native Children's Speech ASR Challenge," the 21st Annual Conference of the International Speech Communication Association (Interspeech 2020), Online, October 25-29, 2020.
