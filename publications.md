@@ -15,6 +15,7 @@ nav: true
 
 -------------------
 ### International Conference Papers
+* Shao-Wei Fan Jiang, Bi-Cheng Yan, **Tien-Hong Lo**, Fu-An Chao, Berlin Chen, "Towards robust mispronunciation detection and diagnosis for L2 English learners with accent-modulating methods," IEEE workshop on Automatic Speech Recognition and Understanding (ASRU 2021), Cartagena, Colombia, December 13-17, 2021. 
 * **Tien-Hong Lo**, Yao-Ting Sung, Berlin Chen, "Improving end-to-end modeling for mispronunciation detection with effective augmentation mechanisms," Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2021), Tokyo Japan, December 14-17, 2021.
 * Shih-Hsuan Chiu, **Tien-Hong Lo**, Fu-An Chao, Berlin Chen, "Cross-utterance reranking models with BERT and graph convolutional networks for conversational speech recognition," Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2021), Tokyo Japan, December 14-17, 2021.
 * Shih-Hsuan Chiu, **Tien-Hong Lo** and Berlin Chen, "Cross-sentence neural language models for conversational speech recognition," The Annual International Joint Conference on Neural Networks (IJCNN 2021), Online, July 18-22, 2021.
@@ -28,7 +29,8 @@ nav: true
 
 -------------------
 ### Local Conference Papers
-
+* You-Sheng Tsao, **Tien-Hong Lo**, Jiun-Ting Li, Shi-Yan Weng, Berlin Chen, “A Preliminary Study on Environmental Sound Classification Leveraging Large-Scale Pretrained Model and Semi-Supervised Learning,” the 33rd International Conference on Computational Linguistics and Speech Processing (ROCLING 2021), Taoyuan, Taiwan, October 15-16, 2021. (in Chinese)
+* Yu-Sen Cheng, **Tien-Hong Lo**, Berlin Chen, "Exploiting text prompts for the development of an end-to-end computer-assisted pronunciation training system," the 32nd International Conference on Computational Linguistics and Speech Processing (ROCLING 2020), Taipei, Taiwan, September 24-26, 2020. (in Chinese)
 * Yu-Sen Cheng, **Tien-Hong Lo**, Berlin Chen, "Exploiting text prompts for the development of an end-to-end computer-assisted pronunciation training system," the 32nd International Conference on Computational Linguistics and Speech Processing (ROCLING 2020), Taipei, Taiwan, September 24-26, 2020. (in Chinese)
 * Hsiu-Jui Chang, **Tien-Hong Lo**, Tzu-En Liu, Berlin Chen, "Investigating computer-assisted pronunciation training leveraging end-to-end speech recognition techniques," the 31st International Conference on Computational Linguistics and Speech Processing (ROCLING 2019), New Taipei City, Taiwan, October 3-5, 2019. (in Chinese)
 * Ming-Jhang Yang, Fu-An Chao, **Tien-Hong Lo**, Berlin Chen, "Exploiting generative adversarial network for robustness automatic speech recognition," the 31st International Conference on Computational Linguistics and Speech Processing (ROCLING 2019), New Taipei City, Taiwan, October 3-5, 2019. (in Chinese)
