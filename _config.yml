@@ -16,7 +16,7 @@ author: Tien-Hong Lo
 navbar-links:
   About: "aboutme"
   Publications: "publications"
-  # Software: "software"
+  Software: "software"
   # Blog: "blog"
   # Events: "events"
 
