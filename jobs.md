@@ -2,7 +2,7 @@
 layout: page
 permalink: /jobs/
 title: Jobs
-subtitle: Jobs Opportinity (in chinese)
+subtitle: If you are interested in the Job Opportunity listed below, please feel free to contact me (teinhonglo@gmail.com).
 nav: true
 ---
 
