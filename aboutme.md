@@ -8,7 +8,7 @@ subtitle: teinnhonglo@ntnu.edu.tw
 ### Short bio
 I'm Tien-Hong, a research engineer in Speech & Spoken Language Processing. I have a broad interest in [Automatic Speech Recognition (ASR)](https://en.wikipedia.org/wiki/Speech_recognition) and [Computer-assisted Language Learning (CALL)](https://www.rcpet.ntnu.edu.tw/).
 
-Currently, I am working as a 2nd-year Ph.D. student, jointly funded by [Computer Science & Information Engineering @ National Taiwan Normal University (NTNU)](https://www.csie.ntnu.edu.tw/) and [The Research Center for Psychological and Educational Testing](https://en.ntnu.edu.tw/p-centerrcp.php). Previously after getting an MS degree from NTNU, I stayed there working as an R&D engineer at [RCPET](https://www.rcpet.ntnu.edu.tw/).
+Currently, I am working as a 2nd-year Ph.D. student, jointly funded by [Computer Science & Information Engineering @ National Taiwan Normal University (NTNU)](https://www.csie.ntnu.edu.tw/) and [The Research Center for Psychological and Educational Testing (RCPET)](https://en.ntnu.edu.tw/p-centerrcp.php). Previously after getting an MS degree from NTNU, I stayed there working as an R&D engineer at RCPET.
 
 Most of my research interests are improving ASR systems, with a minor focus on mispronunciation detection & diagnosis in CALL. In addition to this, I am also exploring the related machine learning topics of spoken information retrieval, natural language processing, and deep neural networks. I am an active user and lover of open-sourced ASR toolkits (e.g., [kaldi](http://kaldi-asr.org) and [espnet](https://espnet.github.io/espnet)) and have bits of contribution to it.
 
