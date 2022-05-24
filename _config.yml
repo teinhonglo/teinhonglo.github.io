@@ -17,7 +17,7 @@ navbar-links:
   About: "aboutme"
   Publications: "publications"
   Software: "software"
-  Jobs: "jobs"
+  # Jobs: "jobs"
   # Blog: "blog"
   # Events: "events"
 
