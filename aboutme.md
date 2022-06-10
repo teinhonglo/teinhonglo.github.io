@@ -6,7 +6,7 @@ subtitle: teinnhonglo@ntnu.edu.tw
 
 -------------------
 ### Short bio
-I'm Tien-Hong, a research engineer in Speech & Spoken Language Processing. I am deeply interested in [Automatic Speech Recognition (ASR)](https:// en.wikipedia.org/wiki/Speech_recognition) and [Computer-assisted Language Learning (CALL)](https://en.wikipedia.org/wiki/Computer-assisted_language_learning).
+I'm Tien-Hong, a research engineer in Speech & Spoken Language Processing. I am deeply interested in [Automatic Speech Recognition (ASR)](https://en.wikipedia.org/wiki/Speech_recognition) and [Computer-assisted Language Learning (CALL)](https://en.wikipedia.org/wiki/Computer-assisted_language_learning).
 
 Currently, I am working as a 2nd-year Ph.D. student, jointly funded by [Computer Science & Information Engineering @ National Taiwan Normal University (NTNU)](https://www.csie.ntnu.edu.tw/) and [The Research Center for Psychological and Educational Testing (RCPET)](https://en.ntnu.edu.tw/p-centerrcp.php). Previously after getting an MS degree from NTNU, I stayed there, working as an R&D engineer at the RCPET.
 
