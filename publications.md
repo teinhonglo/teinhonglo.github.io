@@ -15,6 +15,7 @@ nav: true
 
 -------------------
 ### International Conference Papers
+* Fu-An Chao, **Tien-Hong Lo**, Tzu-I Wu, Yao-Ting Sung, Berlin Chen, "3M: An effective multi-view, multi-granularity, and multi-aspect modeling approach to English pronunciation assessment," Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2022), Chiang Mai, Thailand, November 7-10, 2022.
 * Shao-Wei Fan Jiang, Bi-Cheng Yan, **Tien-Hong Lo**, Fu-An Chao, Berlin Chen, "Towards robust mispronunciation detection and diagnosis for L2 English learners with accent-modulating methods," IEEE workshop on Automatic Speech Recognition and Understanding (ASRU 2021), Cartagena, Colombia, December 13-17, 2021. 
 * **Tien-Hong Lo**, Yao-Ting Sung, Berlin Chen, "Improving end-to-end modeling for mispronunciation detection with effective augmentation mechanisms," Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2021), Tokyo Japan, December 14-17, 2021.
 * Shih-Hsuan Chiu, **Tien-Hong Lo**, Fu-An Chao, Berlin Chen, "Cross-utterance reranking models with BERT and graph convolutional networks for conversational speech recognition," Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2021), Tokyo Japan, December 14-17, 2021.
@@ -29,6 +30,7 @@ nav: true
 
 -------------------
 ### Local Conference Papers
+* Tzu-I Wu, **Tien-Hong Lo**, Fu-An Chao, Yao-Ting Sung, Berlin Chen, "A preliminary study on automated speaking assessment of English as second language (ESL) students," the 34th International Conference on Computational Linguistics and Speech Processing (ROCLING 2022), Taipei, Taiwan, November 21-22, 2022. (in Chinese)
 * **Tien-Hong Lo**, Yao-Ting Sung, Berlin Chen, "Exploring Heterogeneous Graph Neural Network and Centrality Information for Spoken Document Summarizations," the 26th International Conference on Technologies and Applications of Artificial Intelligence (TAAI 2021), Taichung, November 18-20, 2021. (in Chinese)
 * You-Sheng Tsao, **Tien-Hong Lo**, Jiun-Ting Li, Shi-Yan Weng, Berlin Chen, "A Preliminary Study on Environmental Sound Classification Leveraging Large-Scale Pretrained Model and Semi-Supervised Learning," the 33rd International Conference on Computational Linguistics and Speech Processing (ROCLING 2021), Taoyuan, Taiwan, October 15-16, 2021. (in Chinese)
 * Yu-Sen Cheng, **Tien-Hong Lo**, Berlin Chen, "Exploiting text prompts for the development of an end-to-end computer-assisted pronunciation training system," the 32nd International Conference on Computational Linguistics and Speech Processing (ROCLING 2020), Taipei, Taiwan, September 24-26, 2020. (in Chinese)
