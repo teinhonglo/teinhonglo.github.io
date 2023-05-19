@@ -15,6 +15,7 @@ nav: true
 
 -------------------
 ### International Conference Papers
+* Fu-An Chao, **Tien-Hong Lo**, Tzu-I Wu, Yao-Ting Sung, Berlin Chen, "A hierarchical context-aware modeling approach for multi-aspect, multi-granular pronunciation assessment," the 24st Annual Conference of the International Speech Communication Association (Interspeech 2023), Dublin, Ireland, August 20-24, 2023.
 * Fu-An Chao, **Tien-Hong Lo**, Tzu-I Wu, Yao-Ting Sung, Berlin Chen, "3M: An effective multi-view, multi-granularity, and multi-aspect modeling approach to English pronunciation assessment," Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2022), Chiang Mai, Thailand, November 7-10, 2022.
 * Shao-Wei Fan Jiang, Bi-Cheng Yan, **Tien-Hong Lo**, Fu-An Chao, Berlin Chen, "Towards robust mispronunciation detection and diagnosis for L2 English learners with accent-modulating methods," IEEE workshop on Automatic Speech Recognition and Understanding (ASRU 2021), Cartagena, Colombia, December 13-17, 2021. 
 * **Tien-Hong Lo**, Yao-Ting Sung, Berlin Chen, "Improving end-to-end modeling for mispronunciation detection with effective augmentation mechanisms," Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2021), Tokyo Japan, December 14-17, 2021.
