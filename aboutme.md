@@ -12,7 +12,7 @@ Currently, I am working as a Ph.D. candidate, jointly funded by [Computer Scienc
 
 Most of my research interests are improving ASR systems, with a minor focus on mispronunciation detection & diagnosis in CALL. In addition, I am also exploring the related machine learning topics of spoken information retrieval, natural language processing, and deep neural networks. I am an active user and lover of open-sourced ASR toolkits (e.g., [kaldi](http://kaldi-asr.org) and [espnet](https://espnet.github.io/espnet)) and have bits of contribution to it.
 
-A more detailed ver. of [CV](https://drive.google.com/file/d/1bWguMtohTvcIdl1y_ii-H-rU7VOmXiuj/view) is available.
+A more detailed ver. of [CV](https://drive.google.com/file/d/1MFE39zih6Z_Z4o8owh5FNEV2TRzbgZRb/view?usp=sharing) is available.
 
 -------------------
 ### Awards & Honors
