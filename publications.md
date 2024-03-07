@@ -33,6 +33,8 @@ nav: true
 
 -------------------
 ### Local Conference Papers
+* Meng-Shin Lin, Hsin-Wei Wang, **Tien-Hong Lo**, Berlin Chen, Wei-Cheng Chao, "Addressing the issue of data imbalance in multi-granularity pronunciation assessment," the 34th International Conference on Computational Linguistics and Speech Processing (ROCLING 2023), Taipei, Taiwan, October 20-21, 2023. (in Chinese) 
+* Yi-Ping Huang, **Tien-Hong Lo**, Berlin Chen, Leveraging dialogue discourse parsing in a two-stage framework for meeting summarization," the 34th International Conference on Computational Linguistics and Speech Processing (ROCLING 2023), Taipei, Taiwan, October 20-21, 2023. (in Chinese) 
 * Tzu-I Wu, **Tien-Hong Lo**, Fu-An Chao, Yao-Ting Sung, Berlin Chen, "A preliminary study on automated speaking assessment of English as second language (ESL) students," the 34th International Conference on Computational Linguistics and Speech Processing (ROCLING 2022), Taipei, Taiwan, November 21-22, 2022. (in Chinese)
 * **Tien-Hong Lo**, Yao-Ting Sung, Berlin Chen, "Exploring Heterogeneous Graph Neural Network and Centrality Information for Spoken Document Summarizations," the 26th International Conference on Technologies and Applications of Artificial Intelligence (TAAI 2021), Taichung, November 18-20, 2021. (in Chinese)
 * You-Sheng Tsao, **Tien-Hong Lo**, Jiun-Ting Li, Shi-Yan Weng, Berlin Chen, "A Preliminary Study on Environmental Sound Classification Leveraging Large-Scale Pretrained Model and Semi-Supervised Learning," the 33rd International Conference on Computational Linguistics and Speech Processing (ROCLING 2021), Taoyuan, Taiwan, October 15-16, 2021. (in Chinese)
