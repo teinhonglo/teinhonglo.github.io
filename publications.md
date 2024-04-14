@@ -15,6 +15,7 @@ nav: true
 
 -------------------
 ### International Conference Papers
+* **Tien-Hong Lo**, Fu-An Chao, Tzu-I Wu, Yao-Ting Sung, Berlin Chen, "An effective automated speaking assessment approach to mitigating data scarcity and imbalanced distribution," Findings of the Association for Computational Linguistics: NAACL 2024 (NAACL 2024 Findings), Mexico City, Mexico June 16–21, 2024. (Long Paper)
 * Fu-An Chao, **Tien-Hong Lo**, Tzu-I Wu, Yao-Ting Sung, Berlin Chen, "A hierarchical context-aware modeling approach for multi-aspect, multi-granular pronunciation assessment," the 24st Annual Conference of the International Speech Communication Association (Interspeech 2023), Dublin, Ireland, August 20-24, 2023.
 * Jiun Ting Li, **Tien-Hong Lo**, Bi-Cheng Yan, Yung-Chang Hsu, Berlin Chen, "Graph-enhanced transformer architecture with novel use of CEFR vocabulary profile and filled pauses in automated speaking assessment," the 9th Workshop on Speech and Language Technology in Education (SLaTE 2023; Satellite Workshop of Interspeech 2023), Dublin, Ireland, August 18-19, 2023. 
 * Tzu-I Wu, **Tien-Hong Lo**, Fu-An Chao, Yao-Ting Sung, Berlin Chen, "Effective neural modeling leveraging readability features for automated essay scoring," the 9th Workshop on Speech and Language Technology in Education (SLaTE 2023; Satellite Workshop of Interspeech 2023), Dublin, Ireland, August 18-19, 2023.
