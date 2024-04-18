@@ -7,7 +7,7 @@ nav: true
 ---
 
 ### Journal Papers
-* Fu-An Chao, **Tien-Hong Lo**, Shi-Yan Weng, Shih-Hsuan Chiu, Yao-Ting Sung, Berlin Chen, "The NTNU Taiwanese ASR System for Formosa Speech Recognition Challenge 2020," to appear in International Journal of Computational Linguistics and Chinese Language Processing.
+* Fu-An Chao, **Tien-Hong Lo**, Shi-Yan Weng, Shih-Hsuan Chiu, Yao-Ting Sung, Berlin Chen, "The NTNU Taiwanese ASR System for Formosa Speech Recognition Challenge 2020," International Journal of Computational Linguistics and Chinese Language Processing. Vol.  26,  No.  1,  pp.  1-16, June  2021.
 * Hsiu-Jui Chang, Wei-Cheng Chao, **Tien-Hong Lo**, Berlin Chen, "An investigation of hybrid CTC-attention modeling in Mandarin speech recognition," International Journal of Computational Linguistics and Chinese Language Processing, Vol. 24, No. 1, pp. 39-50, June 2019. (In Chinese)
 * **Tien-Hong Lo** and Berlin Chen, "Leveraging discriminative training and model combination for semi-supervised speech recognition," International Journal of Computational Linguistics and Chinese Language Processing, Vol. 23, No. 2, pp. 19-34, December 2018. (in Chinese)
 * Wei-Cheng Chao, Hsiu-Jui Chang, **Tien-Hong Lo**, Berlin Chen, "Leveraging discriminative training and improved neural network architecture and optimization method," International Journal of Computational Linguistics and Chinese Language Processing, Vol. 23, No. 2, pp. 35-46, December 2018. (in Chinese)
