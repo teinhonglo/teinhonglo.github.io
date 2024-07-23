@@ -16,6 +16,8 @@ A more detailed ver. of [CV](https://drive.google.com/file/d/1MFE39zih6Z_Z4o8owh
 
 -------------------
 ### Awards & Honors
+* (2023) The Second-best System: Track 3 (Hakka Pinyin), ROCLING 2023: Shared Task on Formosa Speech Recognition Challenge 2023 (FSR-2023)
+* (2023) The Third-best System: Track 2 (Hakka Hanzi), on Formosa Speech Recognition Challenge 2023 (FSR-2023)
 * (2021) High Distinction System Student Award (The Best System): Track 3, Formosa Speech Recognition Challenge 2020 (FSR 2020)
 * (2021) The Second-best System: Open Track & Closed Track, Interspeech 2021 : Shared Task on Automatic Speech Recognition for Non-Native Children's Speech
 * (2020) IEEE Spoken Language Processing Student Travel Grant: Interspeech 2020
