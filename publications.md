@@ -15,6 +15,8 @@ nav: true
 
 -------------------
 ### International Conference Papers
+* An-Ci Peng, Kuan-Tang Huang, **Tien-Hong Lo**, Hung-Shin Lee, Hsin-Min Wang, Berlin Chen, "Eﬀicient dialect-aware and conditioning for low-resource Taiwanese Hakka speech processing," the 15th edition of the Language Resources and Evaluation Conference (LREC 2026), Palma de Mallorca, Spain, 11-16 May, 2026.
+* Lo-Ya Li, **Tien-Hong Lo**, Jeih-Weih Hung, Shih-Chieh Huang, Berlin Chen, "MALEFA: Multi-granularity learning and effective false alarm suppression for zero-shot keyword spotting," the 51st IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), Barcelona, Spain, May 4-8, 2026.
 * Bi-Cheng Yan, Hsin-Wei Wang, Fu-An Chao, **Tien-Hong Lo**, Yung-Chang Hsu, Berlin Chen, "HiPPO: exploring a novel hierarchical pronunciation assessment approach for spoken languages," International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2025), Mumbai, India, December 20-24, 2025.
 * **Tien-Hong Lo**, Szu-Yu Chen, Yao-Ting Sung, Berlin Chen, "An effective strategy for modeling score ordinality and non-uniform intervals in automated speaking assessment," IEEE workshop on Automatic Speech Recognition and Understanding (ASRU 2025), Honolulu, Hawaii, USA, December 6-10, 2025.
 * Yu-Hsuan Fang, **Tien-Hong Lo**, Yao-Ting Sung, Berlin Chen, "Beyond Modality Limitations: A unified MLLM approach to automated speaking assessment with effective curriculum learning," IEEE workshop on Automatic Speech Recognition and Understanding (ASRU 2025), Honolulu, Hawaii, USA, December 6-10, 2025.
